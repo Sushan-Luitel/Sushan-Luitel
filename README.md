@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently pursuing Computer Engineering at Kathmandu University (3rd semester). I’m passionate about coding and enjoy working on projects that help me apply my knowledge, explore new technologies, and grow as a developer.
+I’m currently pursuing Computer Engineering at Kathmandu University (4th semester). I’m passionate about coding and enjoy working on projects that help me apply my knowledge, explore new technologies, and grow as a developer.
 
 
 ## 🌐 Socials:
